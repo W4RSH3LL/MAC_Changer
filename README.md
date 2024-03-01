@@ -11,8 +11,8 @@ use:
 
 ## Debugging:
 If you run into this type of error:
-![Pasted image 20240301104145](https://github.com/W4RSH3LL/MAC_Changer/assets/129652925/cb20fadb-06db-4ad0-a40c-e7f740a63476)
-Try again with running sudo infront of the command like so:
+- ![Pasted image 20240301104145](https://github.com/W4RSH3LL/MAC_Changer/assets/129652925/cb20fadb-06db-4ad0-a40c-e7f740a63476)
+Try again with sudo infront of the command like so:
 `sudo python3 mac_changer.py -i interface -m mac_address` 
 
 ## Libraries used in this program 📚📗:!
