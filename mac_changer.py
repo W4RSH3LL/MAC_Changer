@@ -3,7 +3,7 @@
 import subprocess
 import optparse
 import re
-from colorama import Fore, Back, Style
+from colorama import Fore, Style
 
 # Get arguments + options from the user
 def get_args():
