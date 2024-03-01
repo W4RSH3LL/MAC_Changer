@@ -9,14 +9,15 @@
 use:
 `python3 mac_changer.py -h` or `--help` for more info.
 
-## Libraries used in this program 📚📗:
+## Libraries used in this program 📚📗:!
 - `subprocess`
 - `optparse`
 - `re`
 - `colorama`
 
 ## Screenshots 📷:
+
 - *Command to change MAC:*
-![[Pasted image 20240301100929 1.png]]
+[Pasted image 20240301100929 1](https://github.com/W4RSH3LL/MAC_Changer/assets/129652925/8575757d-67f6-4913-9560-a9d95e7032ca)
 - *Output:*
-![[Pasted image 20240301102959 1.png]]
+![Pasted image 20240301102959 1](https://github.com/W4RSH3LL/MAC_Changer/assets/129652925/d84d1ecd-cdfb-4abb-aece-ac30ad11c629)
