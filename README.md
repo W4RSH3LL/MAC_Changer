@@ -11,7 +11,9 @@ use:
 
 ## Debugging:
 If you run into this type of error:
-- ![Pasted image 20240301104145](https://github.com/W4RSH3LL/MAC_Changer/assets/129652925/cb20fadb-06db-4ad0-a40c-e7f740a63476)
+
+![Pasted image 20240301104145](https://github.com/W4RSH3LL/MAC_Changer/assets/129652925/cb20fadb-06db-4ad0-a40c-e7f740a63476)
+
 Try again with sudo infront of the command like so:
 `sudo python3 mac_changer.py -i interface -m mac_address` 
 
@@ -24,7 +26,10 @@ Try again with sudo infront of the command like so:
 
 ## Screenshots 📷:
 
-- *Command to change MAC:*
-- ![Pasted image 20240301100929 1](https://github.com/W4RSH3LL/MAC_Changer/assets/129652925/cfd76f8e-6e74-4518-bace-9f19d309831b)
-- *Output:*
-- ![Pasted image 20240301102959 1](https://github.com/W4RSH3LL/MAC_Changer/assets/129652925/d84d1ecd-cdfb-4abb-aece-ac30ad11c629)
+*Command to change MAC:*
+ 
+![Pasted image 20240301100929 1](https://github.com/W4RSH3LL/MAC_Changer/assets/129652925/cfd76f8e-6e74-4518-bace-9f19d309831b)
+
+*Output:*
+  
+![Pasted image 20240301102959 1](https://github.com/W4RSH3LL/MAC_Changer/assets/129652925/d84d1ecd-cdfb-4abb-aece-ac30ad11c629)
